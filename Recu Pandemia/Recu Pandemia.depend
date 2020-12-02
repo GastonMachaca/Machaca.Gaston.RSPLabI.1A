@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1606915336 source:c:\users\ignacio\desktop\recu pandemia\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+
+1606910269 c:\users\ignacio\desktop\recu pandemia\linkedlist.h
+
+1606917159 source:c:\users\ignacio\desktop\recu pandemia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"Parser.h"
+	"Pandemia.h"
+	"Menu.h"
+
+1606916302 c:\users\ignacio\desktop\recu pandemia\parser.h
+
+1606917055 c:\users\ignacio\desktop\recu pandemia\pandemia.h
+	"LinkedList.h"
+
+1606910396 c:\users\ignacio\desktop\recu pandemia\menu.h
+
+1606910367 source:c:\users\ignacio\desktop\recu pandemia\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Menu.h"
+
+1606916056 source:c:\users\ignacio\desktop\recu pandemia\pandemia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Pandemia.h"
+
+1606914131 source:c:\users\ignacio\desktop\recu pandemia\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Pandemia.h"
+	"Parser.h"
+
